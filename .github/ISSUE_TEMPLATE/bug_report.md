@@ -1,7 +1,7 @@
 ---
 name: 🐛 Bug
 about: Report an issue to help us improve
-labels: ["🛠 goal: fix","🚦 status: awaiting review"]
+labels: ["🛠 to fix","🚦 awaiting review"]
 ---
 
 ## Describe the bug
