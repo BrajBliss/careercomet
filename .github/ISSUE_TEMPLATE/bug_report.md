@@ -1,10 +1,7 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
+name: 🐛 Bug
+about: Report an issue to help us improve
+labels: ["🛠 goal: fix","🚦 status: awaiting triage"]
 ---
 
 **Describe the bug**
